@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NZSE BMI</string>
+    <string name="weight">Enter weight in kg</string>
+    <string name="height">Enter height in meters</string>
+    <string name="calc">Calculate</string>
+    <string name="bmi_result">Result</string>
+</resources>

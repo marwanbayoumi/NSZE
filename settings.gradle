@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='NZSE_BMI_1'
